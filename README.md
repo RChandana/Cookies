@@ -10,7 +10,7 @@
 <img width="730" alt="Screenshot 2022-03-26 at 11 20 44 AM" src="https://user-images.githubusercontent.com/89007620/160226745-4d2ad2b6-7a6d-4b68-98ef-057006683c84.png">
 
 
-<img width="492" alt="Screenshot 2022-03-26 at 11 21 04 AM" src="https://user-images.githubusercontent.com/89007620/160226747-9d7433c9-b638-491b-b4c3-554a7901e61e.png">
+<img width="730" alt="Screenshot 2022-03-26 at 11 21 04 AM" src="https://user-images.githubusercontent.com/89007620/160226747-9d7433c9-b638-491b-b4c3-554a7901e61e.png">
 
 
-<img width="495" alt="Screenshot 2022-03-26 at 11 21 22 AM" src="https://user-images.githubusercontent.com/89007620/160226756-0ef0176e-546c-4103-9b70-dea186e2dffa.png">
+<img width="730" alt="Screenshot 2022-03-26 at 11 21 22 AM" src="https://user-images.githubusercontent.com/89007620/160226756-0ef0176e-546c-4103-9b70-dea186e2dffa.png">
